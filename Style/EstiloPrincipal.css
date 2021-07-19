@@ -20,3 +20,7 @@ font-family: 'Open Sans', sans-serif;
   position: relative;
   height: 220px;
 }
+
+.Cabecera img{
+  width:100px;
+}
