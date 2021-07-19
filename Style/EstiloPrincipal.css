@@ -58,3 +58,10 @@ font-family: 'Open Sans', sans-serif;
   padding: 5px;
   border-radius: 3px;
 }
+
+.nav_link_button{
+  background: #008B99;
+  color: white;
+  padding: 5px;
+  border-radius: 3px; 
+}
