@@ -92,27 +92,27 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .elemento1:checked ~ .galeria_contenedor {
-  transform: translatex(0px);
+  transform: translateX(0px);
 }
 
 .elemento2:checked ~ .galeria_contenedor {
-  transform: translatex(-600px);
+  transform: translateX(-600px);
 }
 
 .elemento3:checked ~ .galeria_contenedor {
-  transform: translatex(-1200px);
+  transform: translateX(-1200px);
 }
 
 .elemento4:checked ~ .galeria_contenedor {
-  transform: translatex(-1800px);
+  transform: translateX(-1800px);
 }
 
 .elemento5:checked ~ .galeria_contenedor {
-  transform: translatex(-2400px);
+  transform: translateX(-2400px);
 }
 
 .elemento6:checked ~ .galeria_contenedor {
-  transform: translatex(-3000px);
+  transform: translateX(-3000px);
 }
 
 .controles {
