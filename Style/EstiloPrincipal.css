@@ -96,7 +96,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .elemento2:checked ~ .galeria_contenedor {
-  transform: translateX(-600px);
+  transform: translateX(0px);
 }
 
 .elemento3:checked ~ .galeria_contenedor {
