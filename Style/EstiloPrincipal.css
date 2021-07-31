@@ -147,7 +147,7 @@ label{
 .tienda article {
   display: flex;
   justify-content: center;
-  alig-content: space-between; 
+  alid-content: space-between; 
   flex-flow: wrap;
   border: solid;
   border-radius: 15px;
