@@ -138,8 +138,19 @@ label{
 .tienda {
   display:grid;
   grid-template: repeat(3, 300px) / repeat(3, 300px);
-  justify_content: center;
+  justify-content: center;
   grid-gap: 16;
   width: 100%;
   height: auto;
 }
+
+.tienda article {
+  display: flex;
+  justify-content: center;
+  alig-content: space-between; 
+  flex-flow: wrap;
+  border: solid;
+  border-radius: 15px;
+  overflow: hidden;
+}
+  
