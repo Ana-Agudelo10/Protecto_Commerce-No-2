@@ -170,3 +170,9 @@ label{
 .tienda h3 {
   text-align: center;
 }
+
+.tienda div {
+  width 100%;
+  height: 50px;
+  background: #008B99;
+}
