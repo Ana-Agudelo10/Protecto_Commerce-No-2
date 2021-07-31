@@ -177,3 +177,20 @@ label{
   background: #008B99;
 }
 
+
+/***********PIEPAGINA**************/
+.espacio{
+  position: relative;
+  height: 20px;
+}
+
+.PiePagina {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  height: 100px;
+  background: #008B99;
+  align-content: center;
+}
+  
+  
