@@ -43,6 +43,7 @@ font-family: 'Open Sans', sans-serif;
   height: auto;
   width: unset;
   border: none;
+  display: flex;
 }
 
 .nav_link{
@@ -207,14 +208,14 @@ label{
 
 @media screen and (min-width: 600px) {
   
-  .Cabecera {
+.Cabecera {
   display: flex;
   justify-content: space-between;
   position: relative;
   height: 130px;
 }
   
- .Cabecera figure {
+.Cabecera figure {
     width: 130px;
     margin: auto;
   }
@@ -230,14 +231,14 @@ label{
   left: 100px;
 } 
  
- .cabecera_frase {
+.cabecera_frase {
   position: absolute;
   top: 75px;
   left: 235px;
 }
  
- .nav {
-   display: flex;
+.nav {
+   display: none;
   }
   
 }
