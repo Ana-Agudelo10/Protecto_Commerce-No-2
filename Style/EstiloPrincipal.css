@@ -202,7 +202,7 @@ label{
 
 @media screen and (min-width: 600px) {
   .tienda{
-    grid-template: repeat(3, 300px) / repeat(1, 300px);
+    grid-template: repeat(1, 300px) / repeat(3, 300px);
   }
 }
 
