@@ -237,7 +237,7 @@ label{
 }
  
  .nav {
-   display: none;
+   display: flex;
   }
   
 }
