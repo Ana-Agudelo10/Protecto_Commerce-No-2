@@ -43,7 +43,7 @@ font-family: 'Open Sans', sans-serif;
   height: auto;
   width: unset;
   border: none;
-  display: flex;
+  display: none;
 }
 
 .nav_link{
@@ -238,7 +238,7 @@ label{
 }
  
 .nav {
-   display: none;
+   display: flex;
   }
   
 }
