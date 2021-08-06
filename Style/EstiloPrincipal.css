@@ -224,13 +224,13 @@ label{
   height: 80px;
 }
   
-.Cabecera_h1 {
+.cabecera_h1 {
   position: absolute;
   top: 40px;
   left: 100px;
 } 
  
- .Cabecera_frase {
+ .cabecera_frase {
   position: absolute;
   top: 70px;
   left: 100px;
