@@ -201,7 +201,7 @@ label{
 
 @media screen and (min-width: 600px) {
   .tienda{
-    grid-template: repeat(1, 300px) / repeat(3, 300px);
+    grid-template: repeat(3, 300px) / repeat(1, 300px);
   }
 }
 
@@ -233,11 +233,11 @@ label{
 .cabecera_frase {
   position: absolute;
   top: 75px;
-  left: 90px;
+  left: 100px;
 }
  
 .nav {
-   display: flex;
+   display: none;
   }
   
 }
