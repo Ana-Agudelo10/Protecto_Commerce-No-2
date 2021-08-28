@@ -107,7 +107,31 @@ body {
   transform: scale(1.05);
 }
 
+.btn-Limpiar {
+  background: crimson;
+  color: #000BA4;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
 
+.btn-Limpiar: active {
+  transform: scale(1.05);
+}
+
+.btn-Retornar  {
+  background: crimson;
+  color: #000BA4;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Retornar: active {
+  transform: scale(1.05);
+}
 
 
   
