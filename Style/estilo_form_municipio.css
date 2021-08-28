@@ -20,3 +20,16 @@ body {
   background:#01C300;
   border-radius: 7px;
 }
+
+.titulo-form-municipio {
+  background:#B63F49;
+  color: #BE3C9C;
+  padding: 8px;
+  text-align: center;
+  font-weight:100%;
+  font-size:30px;
+  border-top-left-radius:7px;
+  border-top-right-radius:7px;
+  border-botton:10px solid crimson;
+}
+  
