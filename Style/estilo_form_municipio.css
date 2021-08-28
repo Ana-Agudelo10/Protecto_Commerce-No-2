@@ -12,3 +12,11 @@ body {
   color: #0097C3;
   text-align:center;
 }
+
+.form_municipio{
+  width:60%;
+  max-width: 500px;
+  margin:auto;
+  background:#01C300;
+  border-radius: 7px;
+}
