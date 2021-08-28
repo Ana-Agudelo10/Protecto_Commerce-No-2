@@ -10,26 +10,26 @@ body {
 
 .contenedor {
   color: #0097C3;
-  text-align:center;
+  text-align: center;
 }
 
-.form_municipio{
-  width:60%;
+.form-municipio{
+  width: 60%;
   max-width: 500px;
-  margin:auto;
-  background:#01C300;
+  margin: auto;
+  background: #01C300;
   border-radius: 7px;
 }
 
 .titulo-form-municipio {
-  background:#B63F49;
+  background: #B63F49;
   color: #BE3C9C;
   padding: 8px;
   text-align: center;
-  font-weight:100%;
-  font-size:30px;
-  border-top-left-radius:7px;
-  border-top-right-radius:7px;
-  border-bottom:10px solid crimson;
+  font-weight: 100px;
+  font-size: 30px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom: 10px solid crimson;
 }
   
