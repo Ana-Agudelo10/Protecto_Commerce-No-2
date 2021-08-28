@@ -46,3 +46,29 @@ body {
   width: 100%;
 }
 
+.tabla-botones {
+  text-align: center;
+  border: 1px solid darkgray;
+}
+
+.input-50 {
+  width: 50%;
+}
+
+.btn-insertar {
+  background: crimson;
+  color: #000BA4;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-insertar: active {
+  transform: scale(1.05);
+}
+
+
+
+
+  
