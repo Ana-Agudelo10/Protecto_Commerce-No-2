@@ -199,13 +199,13 @@ label{
  
 /****RESPONSIVE DESIG*****/
 
-@media screen and (min-width: 600px) {
-  .tienda{
-    grid-template: repeat(3, 300px) / repeat(1, 300px);
-  }
+@media screen and (max-width: 600px){
+	.tienda{
+		grid-template: repeat(3, 300px) / repeat(1, 300px) ;
+	}
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px){
   
 .Cabecera {
   display: flex;
