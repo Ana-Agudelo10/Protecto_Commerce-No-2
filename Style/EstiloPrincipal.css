@@ -170,6 +170,15 @@ label{
   text-align: center;
 }
 
+.btn_municipios {
+  background: #188B37;
+  color: #fff;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
 .tienda div {
   width: 100%;
   height: 50px;
