@@ -68,6 +68,45 @@ body {
   transform: scale(1.05);
 }
 
+.btn-Modificar {
+  background: crimson;
+  color: #000BA4;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Modificar: active {
+  transform: scale(1.05);
+}
+
+.btn-Buscar {
+  background: crimson;
+  color: #000BA4;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Buscar: active {
+  transform: scale(1.05);
+}
+
+.btn-Eliminar {
+  background: crimson;
+  color: #000BA4;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Eliminar: active {
+  transform: scale(1.05);
+}
+
 
 
 
