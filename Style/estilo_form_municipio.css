@@ -70,7 +70,7 @@ body {
 
 .btn-Modificar {
   background: crimson;
-  color: #000BA4;
+  color: #188B37;
   margin: auto;
   padding: 10px 40px;
   cursor: pointer;
@@ -83,7 +83,7 @@ body {
 
 .btn-Buscar {
   background: crimson;
-  color: #000BA4;
+  color: #202C83;
   margin: auto;
   padding: 10px 40px;
   cursor: pointer;
@@ -96,7 +96,7 @@ body {
 
 .btn-Eliminar {
   background: crimson;
-  color: #000BA4;
+  color: #F05D00;
   margin: auto;
   padding: 10px 40px;
   cursor: pointer;
@@ -109,7 +109,7 @@ body {
 
 .btn-Limpiar {
   background: crimson;
-  color: #000BA4;
+  color: black;
   margin: auto;
   padding: 10px 40px;
   cursor: pointer;
@@ -122,7 +122,7 @@ body {
 
 .btn-Retornar  {
   background: crimson;
-  color: #000BA4;
+  color: #202C83;
   margin: auto;
   padding: 10px 40px;
   cursor: pointer;
