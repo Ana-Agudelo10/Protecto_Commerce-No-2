@@ -19,6 +19,7 @@ body {
   margin: auto;
   background: #32AB6F;
   border-radius: 7px;
+  border-style: double;
 }
 
 .titulo-form-municipio {
