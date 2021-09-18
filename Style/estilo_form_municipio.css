@@ -17,7 +17,7 @@ body {
   width: 60%;
   max-width: 500px;
   margin: auto;
-  background: #7DFDA3;
+  background: #32AB6F;
   border-radius: 7px;
 }
 
@@ -41,6 +41,7 @@ body {
 }
 
 .tabla-municipios {
+  margin: auto;
   text-align: left;
   border: 1px solid darkgray;
   width: 100%;
