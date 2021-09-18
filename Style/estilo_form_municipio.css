@@ -44,13 +44,13 @@ body {
 .tabla-municipios {
   margin: auto;
   text-align: left;
-  border: 1px dashed darkgray;
+  border: 1px outset #000000;
   width: 100%;
 }
 
 .tabla-botones {
   text-align: center;
-  border: 1px solid darkgray;
+  border: 1px outset #000000;
 }
 
 .input-50 {
