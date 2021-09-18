@@ -3,7 +3,7 @@
 }
 
 body {
-  margin:0;
+  margin:10px;
   font-family:sans-serif;
   background:#A4FFD2;
 }
@@ -16,7 +16,6 @@ body {
 .form-municipio{
   width: 60%;
   max-width: 500px;
-  margin-top: 10px;
   background: #32AB6F;
   border-radius: 7px;
   border-style: double;
