@@ -44,7 +44,7 @@ body {
 .tabla-municipios {
   margin: auto;
   text-align: left;
-  border: 1px solid darkgray;
+  border: 1px dashed darkgray;
   width: 100%;
 }
 
